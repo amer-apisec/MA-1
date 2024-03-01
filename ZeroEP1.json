@@ -1,0 +1,26 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "Public API.",
+    "version": "V1",
+    "title": "Online Banking REST API",
+    "termsOfService": "Terms of service",
+    "contact": {
+      "name": "Apisec NB",
+      "url": "http://netbanking.apisec.ai",
+      "email": "info@apisec.ai"
+    },
+    "license": {
+      "name": "netbanking",
+      "url": "http://netbanking.apisec.ai"
+    }
+  },
+  "host": "qa-netbanking.apisec.ai:8080",
+  "basePath": "/",
+  "tags": [],
+  "paths": {
+  "definitions": {
+
+  }
+}
+}
