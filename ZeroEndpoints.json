@@ -16,11 +16,5 @@
     }
   },
   "host": "qa-netbanking.apisec.ai:8080",
-  "basePath": "/",
-  "tags": [
-    {
-      "name": "primary-transaction-controller",
-      "description": "Primary Transaction Controller"
-    }
-  ]
+  "basePath": "/"
 }
