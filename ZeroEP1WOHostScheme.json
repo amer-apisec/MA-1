@@ -15,7 +15,7 @@
       "url": "http://netbanking.apisec.ai"
     }
   },
-  "host": "qa-netbanking.apisec.ai:8080",
+  "host": "http://qa-netbanking.apisec.ai:8080",
   "basePath": "/",
   "tags": [],
   "paths": {
